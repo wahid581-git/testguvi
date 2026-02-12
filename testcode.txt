@@ -1,6 +1,7 @@
 first line
 second line
 3rd line
+new line
 fourth line
 5
 6
